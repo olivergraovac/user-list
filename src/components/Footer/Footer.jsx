@@ -1,9 +1,9 @@
 import React from "react";
 
 export const Footer = () => (
-  <footer class="page-footer">
-    <div class="footer-copyright">
-      <div class="container">© 2021 Copyright Text</div>
+  <footer className="page-footer">
+    <div className="footer-copyright">
+      <div className="container">© 2021 Copyright Text</div>
     </div>
   </footer>
 );
